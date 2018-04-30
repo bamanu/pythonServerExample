@@ -1,4 +1,4 @@
-# Bookmark Server
+# Bookmark Server Example from Udacity 
 
 In this exercise, you'll create a *bookmark server* or URL-shortening service,
 similar to `TinyURL.com` or `goo.gl`, but with no persistent storage.
